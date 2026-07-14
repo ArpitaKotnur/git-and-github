@@ -1,0 +1,44 @@
+```bash
+git config --global user.name "arpita"
+git config --global user.email "app@gamil.com"
+```
+this commands are to acknowledge others that who changed what file like who user with what email id
+
+---
+```bash
+git init
+git status
+```
+this command is to create a repo to a file to track 
+- in folder option ,click on view nd show hidden file
+- you will get all the hidden file of git (.git)
+```bash
+git add FILE_NAME
+git add FILE_NAME FILE_NAME
+git add .
+git commit -m "changes you did ,mention it"
+```
+to add one or many file from working directory to staging area
+commit- will tell what changes you did so that others can get it
+```bash
+git log
+```
+head->master - head is pointing to master branch
+it also gives unwanted info which i don't want rn
+so we have for oneline info
+```bash
+git log --oneline
+```
+when you do changes in files and check the status you will again come back from staging area to working stage
+now you again need to add file to staging area and commit repo
+
+---
+now how to bring back from staging stage to working stage
+```bash
+git restore --staged FILE_NAME
+```
+to unstaged
+
+
+
+
