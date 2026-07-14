@@ -17,4 +17,9 @@ install git and go to the folder you want to track on and **open git bash here**
 - git --version to check the version
 - git init to create repo
 - git status to check status
+# workflow of git
+- working directory
+- staging area
+- local repo
+- remote repo
 
