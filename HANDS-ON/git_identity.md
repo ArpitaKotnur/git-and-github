@@ -51,7 +51,9 @@ follow the steps
 
 # git don't track on empty files
 then how to make them as the part of git
-in your folder which is empty create a folder named .gitkeep
+in your folder which is empty, create a folder named .gitkeep
+
+
 
 
 
