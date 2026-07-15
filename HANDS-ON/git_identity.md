@@ -39,6 +39,20 @@ git restore --staged FILE_NAME
 ```
 to unstaged
 
+---
+# how to ignore the files which i dont want git to be tracked 
+why dont you want to share all files?
+cuz some of the files are imp and secrets like env files for secret key api key
+follow the steps
+- in vs code in terminal downlaod git
+- open the folder as git in bash
+- create .gitignore file in which you will put the name of file or folder to ignore by git
+- when you add all the files in git and do modification in the files you dont want to show , those folders or files will see status as gitignore modified
+
+
+
+
+
 
 
 
