@@ -49,7 +49,9 @@ follow the steps
 - create .gitignore file in which you will put the name of file or folder to ignore by git
 - when you add all the files in git and do modification in the files you dont want to show , those folders or files will see status as gitignore modified
 
-
+# git don't track on empty files
+then how to make them as the part of git
+in your folder which is empty create a folder named .gitkeep
 
 
 
