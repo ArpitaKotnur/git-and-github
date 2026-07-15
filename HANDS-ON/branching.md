@@ -25,4 +25,15 @@ to delete the branch we use
 ```bash
 git branch -d BRANCH_NAME
 ```
+shortcut way 
+```bash
+git switch -c ui
+```
+it will create and also switch to that branch
+# conflicts in merge
+some times  same changes are done on same file by 2 differnet branches how to solve that
+manually whoever is merging will get message as conflict so the user needs to manually check on the file and remove the arrows
+
+
+
 
