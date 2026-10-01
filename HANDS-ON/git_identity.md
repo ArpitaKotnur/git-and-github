@@ -47,6 +47,8 @@ follow the steps
 - in vs code in terminal downlaod git
 - open the folder as git in bash
 - create .gitignore file in which you will put the name of file or folder to ignore by git
+- file_name.type
+- folder_name/
 - when you add all the files in git and do modification in the files you dont want to show , those folders or files will see status as gitignore modified
 
 # git don't track on empty files
