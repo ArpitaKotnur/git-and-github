@@ -31,8 +31,8 @@ git switch -c ui
 ```
 it will create and also switch to that branch
 # conflicts in merge
-some times  same changes are done on same file by 2 differnet branches how to solve that
-manually whoever is merging will get message as conflict so the user needs to manually check on the file and remove the arrows
+some times  same changes are done on same file by 2 differnet branches how to solve that-
+manually whoever is merging will get message as conflict so the user needs to manually check on the file and remove the arrows, the file in which conflict happens will be now having both branches code or content with marks , so the person who is doing merge , should check on marks and keep the one with latest update
 
 
 
