@@ -21,5 +21,8 @@ git config --global init.defaultBranch main
 ```
 # git and github
 git uses master and github use main so you can make it main in git
+# git fetch and git pull
+git fetch will fetch the commits did in remote in your local working repo whereas in git pull it also the merges the commits happened in your local directory
+
 
 
