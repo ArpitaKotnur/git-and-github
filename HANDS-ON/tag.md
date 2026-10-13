@@ -1,5 +1,5 @@
 # why tags?
-tag for the commit so you can easily identify and use it as release
+tag for the commit so you can easily identify, what you did or to tag important commits we use tags  and use it as release
 # types of tag
 - annoted tag - more informative
 - lightweight tag
