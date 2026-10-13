@@ -6,3 +6,20 @@ when you want to clone a private repo than git wont allow for privacy , it ask f
 ```bash
 git push origin main
 ```
+```bash
+git remote -v
+```
+its the name of place where our repo is sitting, its default name is origin you can also change that to whatever name you want
+# to change the name of branch or change the name of main branch you use
+```bash
+git branch -M name_of_branch_you_want
+```
+# my git consider the main branch as master 
+i can change that using
+```bash
+git config --global init.defaultBranch main
+```
+# git and github
+git uses master and github use main so you can make it main in git
+
+
